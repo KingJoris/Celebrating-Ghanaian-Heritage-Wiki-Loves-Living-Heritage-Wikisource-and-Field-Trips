@@ -1,57 +1,41 @@
-# Capturing Creativity: Chronicles of the Wikimedia Hackathon 2024
+# Celebrating Ghanaian Heritage: Wiki Loves Living Heritage, Wikisource, and Field Trips
 
-![image info](https://github.com/KingJoris/KingJoris.github.io/blob/main/blog%20images/Wikimedia_Hackathon_2024_20240505_RSKY_07.jpg?raw=true)
-<br/>
-<small>*Creative Commons Attribution-Share Alike 4.0 International by Robert Sim*</small>
+The **Ghanaian Wikimedia Languages Meetup 2024** was a vibrant gathering that highlighted the importance of preserving cultural and linguistic heritage through digital platforms. One of the standout sessions was led by **Joris Darlington**, who delved into two crucial Wikimedia initiatives: **Wiki Loves Living Heritage** and **Wikisource**. These projects are instrumental in documenting and celebrating intangible cultural heritage, particularly in regions like Ghana, where many indigenous languages are at risk.
 
-The Wikimedia Hackathon 2024 has drawn to a close, marking an intensely thrilling week filled with innovation and collaboration. As the Blogging Coordinator, I had the privilege of being immersed in the heart of the action, capturing the dynamic energy and creativity that defined the event.
+## Wiki Loves Living Heritage and Wikisource: Preserving Cultural Identity
+<p float="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Ghanaian_language_wikimedia_community_meetup_2024_edition_03.jpg" width="300" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/A_collection_of_old_shoe_maker_boxes_in_northern_Ghana_03.jpg" width="300" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Ghanaian_language_wikimedia_community_meetup_2024_edition_05.jpg" width="300" /> 
+</p>
+<br>
 
-## Pre-Hackathon Anticipation:
-![image info](https://github.com/KingJoris/KingJoris.github.io/blob/main/blog%20images/Wikimedia_Hackathon_2024-2-.jpg?raw=true)
-<br/>
-<small>*Creative Commons Attribution-Share Alike 4.0 International by Olari Pilnik*</small>
+During his presentation, **Joris Darlington** explored the impact and goals of Wiki Loves Living Heritage and Wikisource. He emphasized the urgent need to preserve Ghana’s approximately 81 native languages, many of which are endangered due to the dominance of Akan and English in education and media. Languages such as Ga-Dangme, Ewutu-Efutu, Nzema, and Adamorobe Sign Language face severe threats, making preservation efforts critical for maintaining cultural identity and promoting linguistic diversity.
 
-The excitement began weeks before the event as I connected with eager volunteers keen on sharing participants' stories. We brainstormed blog post concepts, familiarized ourselves with the Phabricator task, and geared up to encapsulate the essence of the event.
+[**Wiki Loves Living Heritage**](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wiki_Loves_Living_Heritage) is a global campaign that documents and celebrates intangible cultural heritage. It engages communities, Wikimedia volunteers, and heritage practitioners to share traditions like oral histories and rituals. This initiative promotes the awareness and preservation of cultural practices through ethical sharing and open access, ensuring that valuable cultural traditions are not lost to time.
 
-## Day 1: Embracing the Energy:
-![image info](https://github.com/KingJoris/KingJoris.github.io/blob/main/blog%20images/Wikimedia_Hackathon_2024_2.jpg?raw=true)
-<br/>
+[**Wikisource**](https://wikisource.org) serves as a valuable resource for historical preservation by providing free access to public domain texts and historical documents. It supports texts in multiple languages, fostering global collaboration and educational use. By digitizing and making historical texts available, Wikisource contributes to the preservation of cultural heritage and provides a crucial educational resource.
 
-The inaugural day buzzed with activity. Volunteers meticulously documented the opening ceremony, team formations, and the initial surge of creative fervor. The blogging team conversed with participants, delving into their project aspirations and driving motivations. The ambience was charged with an unmistakable sense of potential.
+## Field Trips: Documenting Ghanaian Heritage
+<p float="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Ghanaian_language_wikimedia_community_meetup_2024_edition_02.jpg" width="300" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Ghanaian_language_wikimedia_community_meetup_2024_edition_01.jpg" width="300" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ghanaian_language_wikimedia_community_meetup_2024_edition_06.jpg" width="300" /> 
+</p>
+<br>
 
-*[Video Link for the Opening Ceremony](https://www.youtube.com/watch?v=Fd6cvBjXiVU)*
+In connection with the **Wiki Loves Living Heritage** and **Wikisource** session, participants embarked on field trips to the **Red Clay Studio** and the **Savannah Centre for Contemporary Art (SCCA)** in Tamale. These visits were integral to the session’s theme, providing hands-on experience in documenting and preserving local heritage.
 
-## Days 2 & 3: Immersive Exploration and Ingenuity:
+**Red Clay Studio** is a creative space that showcases contemporary art and cultural artefacts. Participants had the opportunity to document the studio’s unique collection, capturing the essence of Ghanaian artistic expression. This documentation aligns with the goals of Wiki Loves Living Heritage, ensuring that these cultural treasures are preserved and accessible to a global audience.
 
-![image info](https://github.com/KingJoris/KingJoris.github.io/blob/main/blog%20images/Wikimedia_Hackathon_2024_20240504_RSKY_14.jpg?raw=true)
-<br/>
-<small>*Creative Commons Attribution-Share Alike 4.0 International by Robert Sim*</small>
+**Savannah Centre for Contemporary Art (SCCA)** is a hub for contemporary art and cultural dialogue. The visit to SCCA allowed participants to engage with modern interpretations of Ghanaian heritage, further emphasizing the importance of preserving both traditional and contemporary cultural practices. By documenting the exhibits and activities at SCCA, participants contributed to the broader goal of celebrating and preserving Ghanaian cultural heritage.
 
-The subsequent days were dedicated to deep dives into the projects. Volunteers conducted insightful interviews with teams as their ideas crystallized into tangible prototypes. We observed the hurdles they overcame, the late-night brainstorming marathons, and the exhilarating breakthrough moments. Witnessing the participants' dedication and collaborative ethos was truly inspiring.
+## Conclusion
+<p float="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Ghanaian_language_wikimedia_community_meetup_2024_edition_10.jpg" width="300" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Ghanaian_language_wikimedia_community_meetup_2024_edition_09.jpg" width="300" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Ghanaian_language_wikimedia_community_meetup_2024_edition_04.jpg" width="300" /> 
+</p>
+<br>
 
-## Day 3: Celebrating the Achievements:
-![image info](https://github.com/KingJoris/KingJoris.github.io/blob/main/blog%20images/Wikimedia_Hackathon_2024_20240504_RSKY_01.jpg?raw=true)
-<br/>
-<small>*Creative Commons Attribution-Share Alike 4.0 International by Robert Sim*</small>
-
-The concluding day was a celebration of the hackathon's culmination. Volunteers meticulously captured project presentations, documenting the final pitches and demos during the showcase. We had the privilege of interviewing participants and sharing their reflections and future aspirations. A pervasive atmosphere of achievement and pride permeated the event venue.
-
-*[Find the link to the closing  ceremony here](https://www.youtube.com/watch?v=-fHTdldf5Xo)*
-
-## Post-Hackathon Reflection:
-
-The momentum didn't wane after the last presentation. Our volunteers are now immersed in crafting their blog posts, weaving together the narrative of the hackathon's journey. I eagerly anticipate the diverse perspectives that will converge, showcasing the breadth of talent and the transformative impact of the event.
-
-*[Find the links to all the blog posts here](https://phabricator.wikimedia.org/T357299)*
-
-## Beyond the Written Word:
-
-Coordinating the blogging team transcended mere task management. It was about nurturing a sense of community among our volunteers and amplifying the participants' voices. It was about capturing the human narratives behind the code, the late-night hack-fueled brainstorming sessions, and the enduring friendships forged in the collaborative spirit of the hackathon.
-
-*[Find the link to the projects developed here](https://phabricator.wikimedia.org/T361975)*
-
-## A Heartfelt Expression of Gratitude:
-
-To our remarkable blogging volunteers – your dedication, creativity, and tireless efforts are deeply appreciated. You played an indispensable role in documenting this remarkable event. And to the participants – thank you for sharing your passion, ingenuity, and the compelling stories behind your projects.
-
-The Wikimedia Hackathon 2024 has been an unforgettable journey, and I feel privileged to have been a part of it. Here's to the enduring impact of the projects developed and the inspiration they impart to the Wikimedia community!
+The **Ghanaian Wikimedia Languages Meetup 2024** was a resounding success, particularly in its focus on preserving cultural and linguistic heritage. The **Wiki Loves Living Heritage** and **Wikisource** sessions, coupled with the enriching field trips, provided participants with valuable insights and practical experience in documenting and celebrating Ghanaian heritage. As participants return to their communities, they carry with them the inspiration and tools to continue their vital work in promoting and preserving Ghanaian languages and cultural practices.
