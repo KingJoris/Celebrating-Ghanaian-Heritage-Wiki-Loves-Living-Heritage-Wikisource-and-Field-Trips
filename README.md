@@ -38,4 +38,4 @@ In connection with the **Wiki Loves Living Heritage** and **Wikisource** session
 </p>
 <br>
 
-The **Ghanaian Wikimedia Languages Meetup 2024** was a resounding success, particularly in its focus on preserving cultural and linguistic heritage. The **Wiki Loves Living Heritage** and **Wikisource** sessions, coupled with the enriching field trips, provided participants with valuable insights and practical experience in documenting and celebrating Ghanaian heritage. As participants return to their communities, they carry with them the inspiration and tools to continue their vital work in promoting and preserving Ghanaian languages and cultural practices.
+The **Wiki Loves Living Heritage** and **Wikisource** sessions, coupled with the enriching field trips, provided participants with valuable insights and practical experience in documenting and celebrating Ghanaian heritage. As participants return to their communities, they carry with them the inspiration and tools to continue their vital work in promoting and preserving Ghanaian languages and cultural practices.
